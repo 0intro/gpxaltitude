@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/0intro/gpxaltitude/workflows/Go/badge.svg)](https://github.com/0intro/gpxaltitude/actions/workflows/go.yml)
+
 gpxaltitude
 ===========
 
